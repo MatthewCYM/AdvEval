@@ -1,0 +1,20 @@
+accelerate==0.32.0
+bert-score==0.3.13
+BLEURT @ git+https://github.com/google-research/bleurt@cebe7e6f996b40910cfaa520a63db47807e3bf5c
+datasets==2.20.0
+google-generativeai==0.7.1
+huggingface-hub==0.23.4
+loguru==0.7.2
+nltk==3.8.1
+openai==1.25.1
+rouge-score==0.1.2
+rquge==0.3
+sacrebleu==2.4.2
+scikit-learn==1.5.1
+scipy==1.13.1
+sentencepiece==0.2.0
+torch==2.2.1+cu118
+torchaudio==2.2.1+cu118
+torchvision==0.17.1+cu118
+tqdm==4.66.4
+transformers==4.39.3
